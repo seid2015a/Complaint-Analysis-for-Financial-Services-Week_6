@@ -1,1 +1,10 @@
-.
+pandas
+numpy
+scikit-learn
+nltk
+tqdm
+sentence-transformers
+faiss-cpu
+transformers
+torch
+gradio.
